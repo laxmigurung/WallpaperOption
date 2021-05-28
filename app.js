@@ -1,5 +1,5 @@
 function myFunction() {
-    document.body.style.background = "#f3f3f3 url('backimage.lnk') no-repeat right top";
+    document.body.style.background = "#f3f3f3 url('backimage.jpg') no-repeat right top";
   }
   function animationbg() {
     document.body.style.background = "#f3f3f3 url('anime.jpg') no-repeat right top";
